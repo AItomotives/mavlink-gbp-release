@@ -13,8 +13,8 @@
   <maintainer email="vooon341@gmail.com">Vladimir Ermakov</maintainer>
 
   <url type="website">https://mavlink.io/en/</url>
-  <url type="repository">https://github.com/mavlink/mavlink.git</url>
-  <url type="bugtracker">https://github.com/mavlink/mavlink/issues</url>
+  <url type="repository">https://github.com/AItomotive/mavlink.git</url>
+  <url type="bugtracker">https://github.com/AItomotive/mavlink/issues</url>
 
   <author>Lorenz Meier</author>
   <license>LGPLv3</license>

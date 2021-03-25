@@ -24,7 +24,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: eloquent
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   foxy:
     actions:
@@ -51,7 +51,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: foxy
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   hydro:
     actions:
@@ -73,7 +73,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   indigo:
     actions:
@@ -97,7 +97,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   jade:
     actions:
@@ -121,7 +121,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: jade
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   kinetic:
     actions:
@@ -148,7 +148,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: kinetic
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   lunar:
     actions:
@@ -173,7 +173,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: lunar
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   melodic:
     actions:
@@ -200,7 +200,7 @@ tracks:
     release_tag: :{ask}
     ros_distro: melodic
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
   noetic:
     actions:
@@ -227,5 +227,5 @@ tracks:
     release_tag: :{ask}
     ros_distro: noetic
     vcs_type: git
-    vcs_uri: https://github.com/mavlink/mavlink.git
+    vcs_uri: https://github.com/AItomotive/mavlink.git
     version: :{ask}
